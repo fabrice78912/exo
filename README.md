@@ -2,13 +2,17 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._
+_Create and run a GitHub Actions workflow 2._
 
 </header>
 
 ## Finish
 
+
+_You've now added a fully functioning workflow to your repository! :smile:_
+
 _Congratulations friend, you've completed this course!_
+
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
